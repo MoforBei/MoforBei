@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Bei Asheli Mofor
+- 👀 I’m interested in webdevelopment
+- 🌱 I’m currently learning Java as a bachelor Student in Software Engimeering
+- 📫 You can contact me through my email at moforbei@gmail.com
